@@ -6,30 +6,30 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Hyperspace
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Hyperspace theme by HTML5 UP.
+title: 
+email: 19D070026@iitb.ac.in
+  description: Hello everyone! I am Jay Sonawane, an electrical engineering freshmen. I have interests in robotics, control theory, differential equations. If you want to catch up working on a project with me then feel free to contact.
 baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+url: "https://github.com/jayson-310801/" # the base hostname & protocol for your site
 
 # Social settings
 500px_url: 
 facebook_url: https://facebook.com
-github_url: 
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/jayson-310801/
+gitlab_url: 
+googleplus_url:
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
 
 # Plugin: jekyll-seo-tag
 twitter:
-  username: andrewbanchich
+  username: 
 # Add one or more of the following
 facebook:
   app_id: 
