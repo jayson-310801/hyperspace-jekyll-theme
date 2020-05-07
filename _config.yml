@@ -8,7 +8,7 @@
 # Site settings
 title: 
 email: 19D070026@iitb.ac.in
-  description: Hello everyone! I am Jay Sonawane, an electrical engineering freshmen. I have interests in robotics, control theory, differential equations. If you want to catch up working on a project with me then feel free to contact.
+  description: Hello everyone. I am Jay Sonawane, an electrical engineering freshmen. I have interests in robotics, control theory, differential equations. If you want to catch up working on a project with me then feel free to contact.
 baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://github.com/jayson-310801/" # the base hostname & protocol for your site
 
